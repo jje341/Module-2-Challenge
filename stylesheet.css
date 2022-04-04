@@ -72,7 +72,7 @@ li a:hover{
   }
 
 .contact-img{
-      background: url(Git\Mod2Challenge\Contact\Chinchilla.gif);
+      background: url(./Contact/Chinchilla.gif);
   }
 
 /* resume */
@@ -85,7 +85,7 @@ li a:hover{
 }
 
 .resume-img {
-    background: url(Git\Mod2Challenge\Photo\Javier Selfie.jpg);
+    background: url(./Photo/Javier\ Selfie.jpg);
 }
 
 .title-name{
